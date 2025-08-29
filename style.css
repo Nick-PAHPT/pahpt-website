@@ -1,0 +1,59 @@
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #222;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #fff;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  margin-top: 4rem;
+  border-radius: 8px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 0;
+  color: #2f4f4f;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  color: #5a5a5a;
+}
+
+.info p {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.contact {
+  margin-top: 2rem;
+}
+
+.contact h2 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.contact a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #888;
+}
